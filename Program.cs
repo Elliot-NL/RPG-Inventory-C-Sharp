@@ -8,10 +8,6 @@ namespace Testing_File___Interface_2
 {
     class Program
     {
-        /// <summary>
-        /// Interfaces are contract models for classes 
-        /// which aid in making classes simpler & safer
-        /// </summary>
         interface items
         {
             string name { get; set; }
